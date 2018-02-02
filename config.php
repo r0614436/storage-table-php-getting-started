@@ -20,7 +20,7 @@ class Config
 {
     const ACCOUNT_NAME = '';
     const ACCOUNT_KEY = '';
-    const IS_EMULATED = true;
+    const IS_EMULATED = false;
 
     public static function getConnectionString()
     {
