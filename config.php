@@ -18,8 +18,8 @@
 
 class Config
 {
-    const ACCOUNT_NAME = '';
-    const ACCOUNT_KEY = '';
+    const ACCOUNT_NAME = 'b2storageaccount';
+    const ACCOUNT_KEY = 'NPDGPw+uJwB0hxgl8pA0yDeCva9GnuZ9gG99M7HAuwRwT5vV6Q7lDwloyD0ajMnb7XE4uLH1HSscuX54iLCx6Q==';
     const IS_EMULATED = false;
 
     public static function getConnectionString()
